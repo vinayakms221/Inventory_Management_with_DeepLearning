@@ -1,1 +1,1 @@
-WebApp which will categorize the pictures of apparels uploaded by user. The categorized images will be stored into particular location as per the category. As of now the models used are for caregorizing Men apparels.
+WebApp for online fashion stores to categorize their inventory using multiple convolutional models. The categorized images will be stored into particular location as per the category. 
