@@ -1,1 +1,1 @@
-# Deployment-Deep-Learning-Model
+WebApp which will categorise the pictures of apparels uploaded by user. The categorised images will be stored into particular location as per the category. As of now the models used are for caregorising Men apparels.
